@@ -1,0 +1,30 @@
+html, body {
+  margin: 90;
+  padding: 0;
+  /* The image used */
+  background-image: url("pngtree-light-effect-crossing-effect-background-image_287362.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+canvas {
+  display: block;
+  
+}
+h2{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: aliceblue;
+}
+h1{
+  font-family: inherit;
+  color: rgb(26, 243, 26);
+}
+h3{
+  font-size: 77px;
+  color: wheat;
+}
